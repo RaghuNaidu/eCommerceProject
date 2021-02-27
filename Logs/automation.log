@@ -1,0 +1,32 @@
+(asctime)s: INFO:   *********Test_001_Login******** 
+(asctime)s: INFO:   *********Verfifying Home page title******** 
+(asctime)s: INFO:  *********Home page title test is PASSED********
+(asctime)s: INFO:  *********Verifying the login test********
+(asctime)s: INFO:  *********Login test is PASSED********
+02-27 12:20 root         INFO      *********Test_001_Login******** 
+02-27 12:20 root         INFO      *********Verfifying Home page title******** 
+02-27 12:20 root         INFO     *********Home page title test is PASSED********
+02-27 12:20 root         INFO     *********Verifying the login test********
+02-27 12:20 root         INFO     *********Login test is PASSED********
+02-27 13:01 root         INFO      *********Test_001_Login******** 
+02-27 13:01 root         INFO      *********Verfifying Home page title******** 
+02-27 13:01 root         INFO     *********Home page title test is PASSED********
+02-27 13:01 root         INFO     *********Verifying the login test********
+02-27 13:01 root         INFO     *********Login test is PASSED********
+02-27 13:02 root         INFO     *********Verifying the login test********
+02-27 13:02 root         INFO     *********Login test is PASSED********
+02-27 13:04 root         INFO      *********Test_001_Login******** 
+02-27 13:04 root         INFO      *********Verfifying Home page title******** 
+02-27 13:05 root         INFO     *********Home page title test is PASSED********
+02-27 13:05 root         INFO     *********Verifying the login test********
+02-27 13:05 root         INFO     *********Login test is PASSED********
+02-27 13:07 root         INFO      *********Test_001_Login******** 
+02-27 13:07 root         INFO      *********Verfifying Home page title******** 
+02-27 13:07 root         INFO     *********Home page title test is PASSED********
+02-27 13:07 root         INFO     *********Verifying the login test********
+02-27 13:07 root         ERROR    *********Login test is FAILED********
+02-27 13:27 root         INFO      *********Test_001_Login******** 
+02-27 13:27 root         INFO      *********Verfifying Home page title******** 
+02-27 13:27 root         INFO     *********Home page title test is PASSED********
+02-27 13:27 root         INFO     *********Verifying the login test********
+02-27 13:28 root         INFO     *********Login test is PASSED********
